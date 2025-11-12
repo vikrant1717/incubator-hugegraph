@@ -96,6 +96,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <shell-executable>bash</shell-executable>
         <toolchain.vision>1.5.0</toolchain.vision>
+        <sonar.organization>vikrant1717</sonar.organization>
     </properties>
 
     <modules>
